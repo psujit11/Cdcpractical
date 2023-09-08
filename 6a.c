@@ -30,7 +30,7 @@ int main(){
 	t1 += (double)(end - begin) / CLOCKS_PER_SEC;
 
     begin = clock();
-	program1(); 
+	program2(); 
     end = clock();
 	t2 += (double)(end - begin) / CLOCKS_PER_SEC;
 
